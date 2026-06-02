@@ -1,0 +1,4 @@
+#C:\Users\Lenovo\Desktop\Projet_Feux\feux_signalisation_autosar_rtw\stub\Rte_feux_signalisation.h
+#this file contains the list of RTE methods that the profiling must filter out
+-Rte_IWrite_feux_signalisation_Step_LightOutput_couleur
+-Rte_IWriteRef_feux_signalisation_Step_LightOutput_couleur

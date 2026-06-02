@@ -1,0 +1,10 @@
+# Cache MATLAB et Simulink
+slprj/
+*.slxc
+*.mex*
+*.log
+
+# Fichiers de build temporaires (sauf si vous voulez tout ignorer, mais ici on veut garder le code généré)
+# Si vous préférez générer le code à chaque fois, vous pouvez ignorer le dossier de génération,
+# mais pour le montrer sur GitHub, laissez-le visible et n'ignorez que le cache :
+derived_files/
