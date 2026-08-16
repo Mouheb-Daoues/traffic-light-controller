@@ -19,8 +19,6 @@ traffic-light-controller/
 ├── models/
 │   └── feux_signalisation.slx
 │
-├── metadata/
-│   └── autosar.xmi
 │
 └── generated_code/
     └── feux_signalisation_component/
@@ -34,7 +32,6 @@ traffic-light-controller/
 | Directory         | Description                                               |
 | ----------------- | --------------------------------------------------------- |
 | `models/`         | Main Simulink/Stateflow model                             |
-| `metadata/`       | AUTOSAR software component architecture and configuration |
 | `generated_code/` | Automatically generated C source, header, and ARXML files |
 | `.gitignore`      | MATLAB/Simulink temporary file and cache exclusions       |
 
